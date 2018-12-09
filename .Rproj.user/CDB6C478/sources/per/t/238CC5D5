@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544364677009.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4068009515",
+    "id" : "238CC5D5",
+    "lastKnownWriteTime" : 1544350938,
+    "last_content_update" : 1544350938,
+    "path" : "D:/Dropbox/gitProject/Probability-and-Statistics-with-R/ch8/ex8_02.R",
+    "project_path" : "ch8/ex8_02.R",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
