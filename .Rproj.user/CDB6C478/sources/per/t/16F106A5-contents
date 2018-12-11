@@ -34,3 +34,4 @@ bartlett.test(y ~ group, data = group_df)
 
 # multiple comparison - Tukey's HSD test : TukeyHSD()
 TukeyHSD(group_aov)
+plot(TukeyHSD(group_aov))

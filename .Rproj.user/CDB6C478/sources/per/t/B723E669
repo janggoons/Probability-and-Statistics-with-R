@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2613283366",
+    "hash" : "4047593614",
     "id" : "B723E669",
-    "lastKnownWriteTime" : 1544360144,
-    "last_content_update" : 1544360144,
-    "path" : "D:/Dropbox/gitProject/Probability-and-Statistics-with-R/ch8/ex8_14.R",
+    "lastKnownWriteTime" : 1544458986,
+    "last_content_update" : 1544458986,
+    "path" : "~/GitHub/Probability-and-Statistics-with-R/ch8/ex8_14.R",
     "project_path" : "ch8/ex8_14.R",
     "properties" : {
-        "cursorPosition" : "37,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "38,0",
+        "scrollLine" : "15"
     },
     "relative_order" : 5,
     "source_on_save" : false,
